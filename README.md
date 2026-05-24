@@ -149,8 +149,8 @@ add_executable(PolyFactorGF
 ### Сборка
 
 ```bash
-git clone https://github.com/lugovskojm/SemesterWork_SUAI_2_course.git
-cd SemesterWork_SUAI_2_course
+git clone https://github.com/lugovskojm/SUAI_SEMESTER_WORK_2_COURSE/
+cd SUAI_SEMESTER_WORK_2_COURSE/
 
 mkdir build && cd build
 cmake ..

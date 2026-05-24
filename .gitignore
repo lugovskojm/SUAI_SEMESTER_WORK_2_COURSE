@@ -1,0 +1,18 @@
+# Build artifacts
+/build/
+# Qt creator
+*.pro.user
+*.pro.user.*
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+# Binary objects
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
